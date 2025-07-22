@@ -6,6 +6,9 @@ _Makes 2 medium portions_
 - Ingredient B
 - Ingredient C
 
+### Extra
+- Ice for steam
+
 ## Instructions
 1. Do A
 2. Do B
