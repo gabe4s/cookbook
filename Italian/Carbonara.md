@@ -8,6 +8,7 @@ _Makes 2 medium portions_
 - 20g Parmigiano Reggiano
 - 100g Guanciale
 - Black Pepper
+- 2 Egg Yolk
 - Reserved Pasta Water
 
 ## Instructions
@@ -17,7 +18,9 @@ _Makes 2 medium portions_
 4. Reserve pasta water
 5. Strain pasta
 6. Add pasta to guanciale fat
-7. Stir in cheese, a little pasta water, pepper to taste
+7. Combine egg yolk, cheese, and pepper in a bowl
+8. Add pasta water to egg/cheese/pepper mix slowly to temper
+9. Add cheese mix to pasta and combine, add pasta water if needed
 
 ## Notes
 - Pasta is 3.2mm Bucatini
