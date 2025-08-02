@@ -1,4 +1,4 @@
-# Template
+# Creme Brulee
 _Makes 4 portions_
 
 ## Ingredients

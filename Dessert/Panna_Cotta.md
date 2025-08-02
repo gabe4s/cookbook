@@ -1,4 +1,4 @@
-# Template
+# Panna Cotta
 _Makes 4-6 portions_
 
 ## Ingredients
