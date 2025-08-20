@@ -8,7 +8,8 @@ _Makes 2 medium portions_
 - 20g Parmigiano Reggiano
 - 100g Guanciale
 - Black Pepper
-- 2 Egg Yolk
+- 1 Egg Yolk
+- 1 Full Egg
 - Reserved Pasta Water
 
 ## Instructions
