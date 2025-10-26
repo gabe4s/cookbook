@@ -2,10 +2,10 @@
 _Makes 2 person loaf ~6in_
 
 ## Ingredients
-- 200g water
-- 280g 00 flour
-- 6g salt
-- 4g instant yeast
+- 150g water
+- 210g 00 flour
+- 5g salt
+- 3g instant yeast
 
 ## Instructions
 1. Mix all ingredients
