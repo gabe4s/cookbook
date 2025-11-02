@@ -12,7 +12,7 @@ _Makes 1 medium loaf_
 ### Dough
 - 2g Red Star Platinum Instant Yeast
 - 170g 00 Flour
-- 120g Water
+- 150g Water
 - 5g Salt
 
 ### Extra

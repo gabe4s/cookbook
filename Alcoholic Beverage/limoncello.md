@@ -15,5 +15,4 @@ _Makes ~650ml_
 ## Notes
 
 ## Future Improvement
-- Steep another week - Done
-- Measure lemon peels by weight - Done
+- Steep 17 days
