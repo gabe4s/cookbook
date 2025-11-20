@@ -13,6 +13,13 @@ _Makes ~650ml_
 3. Add warm simple to extraction and chill
 
 ## Notes
+- Last batch was 208g of everclear, 208g of everclear =~ 260ml of volume
+- 30g of lemon peels
+- 180g sugar
+- 438g water
+- 553ml of sugar+water volume
+- Calculated ABV of 32%
+- Steeped 17 days
 
 ## Future Improvement
-- Steep 17 days
+
