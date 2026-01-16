@@ -15,4 +15,4 @@ _Makes 2 person loaf ~6in_
 5. Remove dutch oven from oven, line bottom with flour
 6. Drop boule in
 7. Dust with flour and slash
-6. Bake @ 450f for 30m with lid on, remove lid and finish
+6. Bake @ 450f for 20m with lid on, remove lid and finish
