@@ -1,11 +1,11 @@
 # Template
-_Makes 1 bread ~ 9x13x2_
+_Makes 1 bread_
 
 ## Ingredients
-- 7g (1 Envelope) Red Star Platinum Instant Yeast
-- 560g 00 Flour
-- 470g Water
-- 11g Salt
+- 3.5g Instant Yeast
+- 280g 00 Flour
+- 235g Water
+- 6g Salt
 - 1tbsp Olive Oil
 
 ### Extra
