@@ -1,4 +1,4 @@
-# Template
+# Pizza Dough
 _Makes 2 12" pizza crusts_
 
 ## Ingredients

@@ -1,4 +1,4 @@
-# Template
+# Focaccia
 _Makes 1 bread_
 
 ## Ingredients

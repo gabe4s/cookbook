@@ -1,4 +1,4 @@
-# Template
+# Baby Boule
 _Makes 2 person loaf ~6in_
 
 ## Ingredients

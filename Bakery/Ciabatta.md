@@ -1,4 +1,4 @@
-# Template
+# Ciabatta
 _Makes 1 medium loaf_
 
 ## Ingredients
