@@ -1,19 +1,19 @@
 # Ciabatta
-_Makes 1 medium loaf_
+_Makes 1 small ~2 person loaf_
 
 ## Ingredients
 
 ### Biga
-- 0.5g Red Star Platinum Instant Yeast
-- 110g 00 Flour
-- 90g Water
+- 0.4g Red Star Platinum Instant Yeast
+- 80g 00 Flour
+- 70g Water
 - 1g Salt
 
 ### Dough
-- 2g Red Star Platinum Instant Yeast
-- 170g 00 Flour
-- 150g Water
-- 5g Salt
+- 1.4g Instant Yeast
+- 120g 00 Flour
+- 110g Water
+- 4g Salt
 
 ### Extra
 - Ice for steam
